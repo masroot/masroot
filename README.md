@@ -1,57 +1,73 @@
 <div align="center">
 
+![MASROOT — Code, Networks, Security](assets/banner.svg)
+
 # سلام، من محمد علی‌ام 👋
+### از کنجکاوی تا کد؛ از ایده تا محصول.
 
-### هنرجوی شبکه و نرم‌افزار • در مسیر تبدیل ایده‌ها به محصول
+هنرجوی شبکه و نرم‌افزار رایانه؛ علاقه‌مند به برنامه‌نویسی، امنیت و ساخت ابزارهایی که واقعاً به کار می‌آیند.
 
-یاد می‌گیرم، می‌سازم و نتیجه را با بقیه به اشتراک می‌گذارم.
-
-![Profile views](https://komarev.com/ghpvc/?username=masroot&label=Profile%20views&color=5b62ee&style=flat)
-![Learning](https://img.shields.io/badge/Focus-Learning%20%26%20Building-19b6c9?style=flat)
+[![Explore projects](https://img.shields.io/badge/EXPLORE-PROJECTS-5eead4?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1428)](https://github.com/masroot?tab=repositories)
+[![Konkoor Yar](https://img.shields.io/badge/FEATURED-KONKOOR_YAR-a78bfa?style=for-the-badge&labelColor=0d1428)](https://github.com/masroot/konkoor-yar)
 
 </div>
 
 ---
 
-## 🚀 دربارهٔ من
+<div dir="rtl">
 
-- 🎓 هنرجوی رشتهٔ **شبکه و نرم‌افزار رایانه**
-- 💻 توسعه‌دهنده و علاقه‌مند به برنامه‌نویسی، شبکه و امنیت
-- 🧠 علاقه‌مند به ساخت ابزارهای آموزشی کاربردی و تجربه‌های تعاملی
-- 🎯 هدف فعلی: قوی‌ترشدن در برنامه‌نویسی و ساخت پروژه‌های واقعی
-- 🤝 آمادهٔ یادگیری گروهی و همکاری روی پروژه‌های دانش‌آموزی
+## 🧑‍💻 پشت این پروفایل
 
-## 🧰 مهارت‌ها و ابزارها
+یاد می‌گیرم، می‌سازم و تجربه‌هایم را به اشتراک می‌گذارم. تمرکزم روی تقویت برنامه‌نویسی، شناخت شبکه‌ها و ساخت پروژه‌های واقعی است.
+
+- 🎓 هنرجوی **شبکه و نرم‌افزار رایانه**
+- 🛠️ علاقه‌مند به ابزارهای آموزشی و تجربه‌های تعاملی
+- 🐧 کار با محیط‌های **Ubuntu، Kali Linux و ماشین‌های مجازی**
+- 🔎 علاقه‌مند به مباحث **Network+ و CEH** و ابزارهای تحلیل شبکه
+- 🤝 مشتاق یادگیری گروهی و همکاری در پروژه‌های دانش‌آموزی
+
+</div>
+
+## ⚡ Toolbox
+
+**Languages & Web**
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img alt="C++" src="https://img.shields.io/badge/C++-0d1428?style=for-the-badge&logo=cplusplus&logoColor=5eead4"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-0d1428?style=for-the-badge&logo=openjdk&logoColor=fb923c"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-0d1428?style=for-the-badge&logo=python&logoColor=facc15"/>
+<img alt="React" src="https://img.shields.io/badge/React-0d1428?style=for-the-badge&logo=react&logoColor=67e8f9"/>
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-0d1428?style=for-the-badge&logo=wordpress&logoColor=93c5fd"/>
 </p>
 
-- 🔐 CEH و Network+
-- 🧪 Nmap، Wireshark و Burp Suite
-- 🐧 کار با ماشین‌های مجازی Kali Linux و Ubuntu
+**Systems & Security**
 
-## 🌟 پروژهٔ شاخص
+<p>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-0d1428?style=for-the-badge&logo=linux&logoColor=ffffff"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-0d1428?style=for-the-badge&logo=docker&logoColor=60a5fa"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1428?style=for-the-badge&logo=github&logoColor=c4b5fd"/>
+<img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0d1428?style=for-the-badge&logo=wireshark&logoColor=67e8f9"/>
+<img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-0d1428?style=for-the-badge&logo=burpsuite&logoColor=fb923c"/>
+<img alt="Nmap" src="https://img.shields.io/badge/Nmap-0d1428?style=for-the-badge&logoColor=5eead4"/>
+</p>
 
-### [کنکور یار](https://github.com/masroot/konkoor-yar)
+<div dir="rtl">
 
-اپ فارسی و بازی‌وار برای جمع‌بندی کنکور رشتهٔ شبکه و نرم‌افزار؛ شامل درس‌نامه، آزمون زمان‌دار، نمرهٔ منفی، دفترچهٔ اشتباهات و مربی روزانه.
+## 🚀 پروژهٔ شاخص · کنکور یار
 
-> این پروژه در حال توسعه است و مرحله‌به‌مرحله کامل‌تر می‌شود.
+### [یادگیری با کمی هیجان بیشتر ↗](https://github.com/masroot/konkoor-yar)
 
-## 📊 فعالیت من در GitHub
+اپ فارسی و بازی‌وار برای جمع‌بندی کنکور رشتهٔ شبکه و نرم‌افزار؛ با درس‌نامه، آزمون زمان‌دار، نمرهٔ منفی، دفترچهٔ اشتباهات و مربی روزانه.
 
-<div align="center">
+**وضعیت:** در حال توسعه 🟣
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masroot&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masroot&layout=compact&theme=tokyonight&hide_border=true)
+[مشاهدهٔ کد و پروژه](https://github.com/masroot/konkoor-yar)
+
+## 🎯 مسیر یادگیری
+
+**برنامه‌نویسی کاربردی** ← ساخت ابزارهای کوچک و قابل استفاده  
+**شبکه و امنیت** ← تمرین در محیط آزمایشگاهی  
+**توسعهٔ محصول** ← بهترکردن مرحله‌به‌مرحلهٔ کنکور یار
 
 </div>
 
@@ -59,6 +75,10 @@
 
 <div align="center">
 
-### «هر روز یک قدم کوچک؛ آخرش یک پروژهٔ بزرگ.»
+**LEARN → BUILD → SHARE → REPEAT**
+
+«هر روز یک قدم کوچک؛ آخرش یک پروژهٔ بزرگ.»
+
+[همهٔ پروژه‌ها ↗](https://github.com/masroot?tab=repositories)
 
 </div>
